@@ -1,0 +1,696 @@
+{
+  "schema": 1,
+  "repository": "alandvo/avonetics-songs-047",
+  "songs": [
+    {
+      "id": "song_20261102_231011_e516",
+      "title": "Quiet For Once",
+      "language": "English",
+      "source": "s_20261102_230737_c77498.m4a",
+      "bytes": 1987518,
+      "localMtime": 1793661011.0321674,
+      "file": "songs/518613e40d3dd6cce3a51aa06bbef148fe1674f3924804e4e124fe3fd661e667.m4a",
+      "sha256": "518613e40d3dd6cce3a51aa06bbef148fe1674f3924804e4e124fe3fd661e667"
+    },
+    {
+      "id": "song_20261102_232012_62f5",
+      "title": "Porch Light's Off for Good",
+      "language": "English",
+      "source": "s_20261102_231727_bd54c7.m4a",
+      "bytes": 1976138,
+      "localMtime": 1793661612.4148126,
+      "file": "songs/616bae367d748a32c01b08a33ebc158517ec94dd9eee5a9d7dab6088893ed929.m4a",
+      "sha256": "616bae367d748a32c01b08a33ebc158517ec94dd9eee5a9d7dab6088893ed929"
+    },
+    {
+      "id": "song_20261102_233908_ad08",
+      "title": "Heavy Halo",
+      "language": "English",
+      "source": "s_20261102_233727_e555bb.m4a",
+      "bytes": 2231447,
+      "localMtime": 1793662748.1376348,
+      "file": "songs/778cc7a14c3d465ab2e35d4d382bc84e33818108a925a2e0188cc349643dc670.m4a",
+      "sha256": "778cc7a14c3d465ab2e35d4d382bc84e33818108a925a2e0188cc349643dc670"
+    },
+    {
+      "id": "song_20261102_235011_bbec",
+      "title": "Velvet Alibi",
+      "language": "English",
+      "source": "s_20261102_234733_812030.m4a",
+      "bytes": 2219538,
+      "localMtime": 1793663411.7823465,
+      "file": "songs/dd1759b0445ec9aa3609379f7e7a1ff54343796a170034ca7f7b602927c3f00b.m4a",
+      "sha256": "dd1759b0445ec9aa3609379f7e7a1ff54343796a170034ca7f7b602927c3f00b"
+    },
+    {
+      "id": "song_20261103_000031_6ca4",
+      "title": "Crash Test",
+      "language": "English",
+      "source": "s_20261102_235730_fc774e.m4a",
+      "bytes": 2063404,
+      "localMtime": 1793664031.1229556,
+      "file": "songs/bef2d8ddf9394932a2d393a8e6272e52cadce33c94bdbcabed24c8e07dc1e37b.m4a",
+      "sha256": "bef2d8ddf9394932a2d393a8e6272e52cadce33c94bdbcabed24c8e07dc1e37b"
+    },
+    {
+      "id": "song_20261103_001008_3c6d",
+      "title": "Velvet Cage",
+      "language": "English",
+      "source": "s_20261103_000725_aaa65f.m4a",
+      "bytes": 2246414,
+      "localMtime": 1793664608.4877455,
+      "file": "songs/efe89a724495ec0252f9f30cbf9c549c184ed08ddddaefd65e78fc428b3926f3.m4a",
+      "sha256": "efe89a724495ec0252f9f30cbf9c549c184ed08ddddaefd65e78fc428b3926f3"
+    },
+    {
+      "id": "song_20261103_002010_702d",
+      "title": "Paper Alibis",
+      "language": "English",
+      "source": "s_20261103_001733_600e11.m4a",
+      "bytes": 1902006,
+      "localMtime": 1793665209.9728591,
+      "file": "songs/430012c409f42dead35e137891d78cc2555aafcc41a063adb04e95de36b2d0af.m4a",
+      "sha256": "430012c409f42dead35e137891d78cc2555aafcc41a063adb04e95de36b2d0af"
+    },
+    {
+      "id": "song_20261103_004009_f735",
+      "title": "Not a Miracle Worker",
+      "language": "English",
+      "source": "s_20261103_003729_c194f8.m4a",
+      "bytes": 2211727,
+      "localMtime": 1793666409.1471522,
+      "file": "songs/0584a218512fb93b7c7c275890d11025aaa0b613e8f92e5569d0a9804ba787f3.m4a",
+      "sha256": "0584a218512fb93b7c7c275890d11025aaa0b613e8f92e5569d0a9804ba787f3"
+    },
+    {
+      "id": "song_20261103_005008_b2a8",
+      "title": "Amber Horizon",
+      "language": "English",
+      "source": "s_20261103_004729_cfabeb.m4a",
+      "bytes": 1803240,
+      "localMtime": 1793667008.9162667,
+      "file": "songs/2f50528acebf4d09e0b785835685ba8fdecf82b52b0056b0289acacd858b82a8.m4a",
+      "sha256": "2f50528acebf4d09e0b785835685ba8fdecf82b52b0056b0289acacd858b82a8"
+    },
+    {
+      "id": "song_20261103_005905_0c04",
+      "title": "Rent Is Due on Friday",
+      "language": "English",
+      "source": "s_20261103_005723_d593de.m4a",
+      "bytes": 2038786,
+      "localMtime": 1793667545.8768933,
+      "file": "songs/d172cb22784fe00e62af3ff1e91a679e1ad87bc30a850ca9f9f784bcfc640d4b.m4a",
+      "sha256": "d172cb22784fe00e62af3ff1e91a679e1ad87bc30a850ca9f9f784bcfc640d4b"
+    },
+    {
+      "id": "song_20261103_011010_b431",
+      "title": "Velvet Alibi",
+      "language": "English",
+      "source": "s_20261103_010724_04a37e.m4a",
+      "bytes": 2262693,
+      "localMtime": 1793668210.2815564,
+      "file": "songs/fad13493341c3286014e3c09e4920e4370b27ceb6703ec5fa961cf5dc0d80124.m4a",
+      "sha256": "fad13493341c3286014e3c09e4920e4370b27ceb6703ec5fa961cf5dc0d80124"
+    },
+    {
+      "id": "song_20261103_012009_2512",
+      "title": "Porchlight on County Line",
+      "language": "English",
+      "source": "s_20261103_011731_0482ad.m4a",
+      "bytes": 1934611,
+      "localMtime": 1793668808.9879842,
+      "file": "songs/e05c49f93460abf0cacb7eda8b0c3585cabc36337bca60529173a878e0a05be7.m4a",
+      "sha256": "e05c49f93460abf0cacb7eda8b0c3585cabc36337bca60529173a878e0a05be7"
+    },
+    {
+      "id": "song_20261103_013011_f545",
+      "title": "Porch Light in the Pouring Rain",
+      "language": "English",
+      "source": "s_20261103_012733_310759.m4a",
+      "bytes": 1928747,
+      "localMtime": 1793669411.8390288,
+      "file": "songs/a85d21e8e5cedf47c2e57e1603a9b064559312df40590eca4a39054033cb2666.m4a",
+      "sha256": "a85d21e8e5cedf47c2e57e1603a9b064559312df40590eca4a39054033cb2666"
+    },
+    {
+      "id": "song_20261103_014011_50c8",
+      "title": "Tailored Silence",
+      "language": "English",
+      "source": "s_20261103_013731_86eccf.m4a",
+      "bytes": 2090406,
+      "localMtime": 1793670011.238928,
+      "file": "songs/74060d5ad12d06ba5f684ae0adfaeac3cd64b46e1b90c94457932d8ff870bac2.m4a",
+      "sha256": "74060d5ad12d06ba5f684ae0adfaeac3cd64b46e1b90c94457932d8ff870bac2"
+    },
+    {
+      "id": "song_20261103_015010_c728",
+      "title": "Empty the Vault",
+      "language": "English",
+      "source": "s_20261103_014729_fddcb1.m4a",
+      "bytes": 1988007,
+      "localMtime": 1793670610.1792908,
+      "file": "songs/c5d5b79cdf170651c30f8b1a185a5403c029521933af89d291006c590fec0153.m4a",
+      "sha256": "c5d5b79cdf170651c30f8b1a185a5403c029521933af89d291006c590fec0153"
+    },
+    {
+      "id": "song_20261103_020034_d3fe",
+      "title": "White Flag on the Counter",
+      "language": "English",
+      "source": "s_20261103_015733_a1d161.m4a",
+      "bytes": 2048053,
+      "localMtime": 1793671234.5829897,
+      "file": "songs/e9b65f221a69a9b12765da2ec035f2844d937c0dfc409b87439e6a52600fddab.m4a",
+      "sha256": "e9b65f221a69a9b12765da2ec035f2844d937c0dfc409b87439e6a52600fddab"
+    },
+    {
+      "id": "song_20261103_024510_3e92",
+      "title": "Static Under the Velvet",
+      "language": "English",
+      "source": "s_20261103_023732_0186fd.m4a",
+      "bytes": 2185016,
+      "localMtime": 1793673910.0313127,
+      "file": "songs/89e2d968aac54a94484de2914fba3346463131d15a6cde7cd15e3b68738cd348.m4a",
+      "sha256": "89e2d968aac54a94484de2914fba3346463131d15a6cde7cd15e3b68738cd348"
+    },
+    {
+      "id": "song_20261103_025007_2059",
+      "title": "Roots in the Clay",
+      "language": "English",
+      "source": "s_20261103_024728_1b3197.m4a",
+      "bytes": 1896046,
+      "localMtime": 1793674207.7873526,
+      "file": "songs/e39084c0aec6827d5723e8ef08beab5b27c688e4f91805702f8c9bf783ffb500.m4a",
+      "sha256": "e39084c0aec6827d5723e8ef08beab5b27c688e4f91805702f8c9bf783ffb500"
+    },
+    {
+      "id": "song_20261103_030024_cb96",
+      "title": "Show You My Streets",
+      "language": "English",
+      "source": "s_20261103_025732_d774a8.m4a",
+      "bytes": 2105268,
+      "localMtime": 1793674824.6643097,
+      "file": "songs/ad84cd18bea41744bc7ca041ae238526c00a8584db9cf7e57a2166a42c3ba610.m4a",
+      "sha256": "ad84cd18bea41744bc7ca041ae238526c00a8584db9cf7e57a2166a42c3ba610"
+    },
+    {
+      "id": "song_20261103_031009_e839",
+      "title": "Unframed",
+      "language": "English",
+      "source": "s_20261103_030726_5ef836.m4a",
+      "bytes": 2109681,
+      "localMtime": 1793675409.3760889,
+      "file": "songs/7248b5319ae510de8f390512d581a41baa2479ca2c39881966f2931aa0eba8ba.m4a",
+      "sha256": "7248b5319ae510de8f390512d581a41baa2479ca2c39881966f2931aa0eba8ba"
+    },
+    {
+      "id": "song_20261103_033012_cb57",
+      "title": "Velvet Alibi",
+      "language": "English",
+      "source": "s_20261103_032735_42e142.m4a",
+      "bytes": 2165466,
+      "localMtime": 1793676612.1459484,
+      "file": "songs/d990fcea9b27ed0d7d0e95e8277cf2bf6caecd75d78ab8d2d39b5af5b3772d49.m4a",
+      "sha256": "d990fcea9b27ed0d7d0e95e8277cf2bf6caecd75d78ab8d2d39b5af5b3772d49"
+    },
+    {
+      "id": "song_20261103_033406_c307",
+      "title": "Front Page Spiral",
+      "language": "English",
+      "source": "s_20261103_031731_88c203.m4a",
+      "bytes": 2132864,
+      "localMtime": 1793676846.7473223,
+      "file": "songs/47d97d3422c4dfad138af3498752cad877538e85fa996817a9fa78d876d9960a.m4a",
+      "sha256": "47d97d3422c4dfad138af3498752cad877538e85fa996817a9fa78d876d9960a"
+    },
+    {
+      "id": "song_20261103_034010_3a87",
+      "title": "Flyover Royalty",
+      "language": "English",
+      "source": "s_20261103_033727_4f213b.m4a",
+      "bytes": 2164881,
+      "localMtime": 1793677210.4474342,
+      "file": "songs/ae1cd8e59b2016fc7484f213524443a158249dcb2dfd221b58305b465633cc15.m4a",
+      "sha256": "ae1cd8e59b2016fc7484f213524443a158249dcb2dfd221b58305b465633cc15"
+    },
+    {
+      "id": "song_20261103_040909_ed10",
+      "title": "Velvet Appetite",
+      "language": "English",
+      "source": "s_20261103_040726_515c29.m4a",
+      "bytes": 2237231,
+      "localMtime": 1793678949.0178971,
+      "file": "songs/bc7083a4c5479e43e37b7eed18198b10276dc0ce32b9f746e3cdffae4b135ed8.m4a",
+      "sha256": "bc7083a4c5479e43e37b7eed18198b10276dc0ce32b9f746e3cdffae4b135ed8"
+    },
+    {
+      "id": "song_20261103_042012_95eb",
+      "title": "Forcing the Lock",
+      "language": "English",
+      "source": "s_20261103_041731_3e4cb7.m4a",
+      "bytes": 2144130,
+      "localMtime": 1793679612.2635546,
+      "file": "songs/b0ee3223183c513cb645fdb4a01245ba2503a324c6a6c30c78a44e4db8edd85a.m4a",
+      "sha256": "b0ee3223183c513cb645fdb4a01245ba2503a324c6a6c30c78a44e4db8edd85a"
+    },
+    {
+      "id": "song_20261103_050026_1b17",
+      "title": "Velvet Throne",
+      "language": "English",
+      "source": "s_20261103_045726_cd595d.m4a",
+      "bytes": 2219106,
+      "localMtime": 1793682025.646882,
+      "file": "songs/3268253e211cec09d1dc67cada8469f5a185f13af2cd563e155a3d6e2d747150.m4a",
+      "sha256": "3268253e211cec09d1dc67cada8469f5a185f13af2cd563e155a3d6e2d747150"
+    },
+    {
+      "id": "song_20261103_050406_feed",
+      "title": "Daylight on the Velvet",
+      "language": "English",
+      "source": "s_20261103_044728_f5def2.m4a",
+      "bytes": 2290883,
+      "localMtime": 1793682246.410162,
+      "file": "songs/f40d5768bea5222bfc535d3dff8c2397b0c1457feab3abc0e81659e06a88c899.m4a",
+      "sha256": "f40d5768bea5222bfc535d3dff8c2397b0c1457feab3abc0e81659e06a88c899"
+    },
+    {
+      "id": "song_20261103_054512_53db",
+      "title": "Receipt Check",
+      "language": "English",
+      "source": "s_20261103_053731_a260a3.m4a",
+      "bytes": 2174538,
+      "localMtime": 1793684712.4748793,
+      "file": "songs/33991a08d49b78948e814b39ebe322800450bc068593244fc8263578605fd325.m4a",
+      "sha256": "33991a08d49b78948e814b39ebe322800450bc068593244fc8263578605fd325"
+    },
+    {
+      "id": "song_20261103_060306_06c1",
+      "title": "With My Eyes Wide Open",
+      "language": "English",
+      "source": "s_20261103_055735_22e2b1.m4a",
+      "bytes": 2161383,
+      "localMtime": 1793685786.3290365,
+      "file": "songs/b188823ae9327787516d757464577d582530e0f762b83b5006ffcaf89bfaea53.m4a",
+      "sha256": "b188823ae9327787516d757464577d582530e0f762b83b5006ffcaf89bfaea53"
+    },
+    {
+      "id": "song_20261103_061008_698c",
+      "title": "Statues in the Daylight",
+      "language": "English",
+      "source": "s_20261103_060732_9b573a.m4a",
+      "bytes": 2088195,
+      "localMtime": 1793686208.386725,
+      "file": "songs/dc0487b79f24a152be0b15c0038de5bb25652a4670b9bad04baebeec060969b6.m4a",
+      "sha256": "dc0487b79f24a152be0b15c0038de5bb25652a4670b9bad04baebeec060969b6"
+    },
+    {
+      "id": "song_20261103_062007_34f2",
+      "title": "Mercy in the Make-Believe",
+      "language": "English",
+      "source": "s_20261103_061731_0d869d.m4a",
+      "bytes": 1964605,
+      "localMtime": 1793686807.5641086,
+      "file": "songs/4332f933ae8a7db522b48be83e351b791ac642094814456d904756144838cb1b.m4a",
+      "sha256": "4332f933ae8a7db522b48be83e351b791ac642094814456d904756144838cb1b"
+    },
+    {
+      "id": "song_20261103_063012_4ce4",
+      "title": "Heavy On The Pedestal",
+      "language": "English",
+      "source": "s_20261103_062728_cab38d.m4a",
+      "bytes": 2187077,
+      "localMtime": 1793687412.196886,
+      "file": "songs/fe5855a6581ff124a14f7f2995a3c9da7e77d150921aa3e4ea2ad4b4a540bb8e.m4a",
+      "sha256": "fe5855a6581ff124a14f7f2995a3c9da7e77d150921aa3e4ea2ad4b4a540bb8e"
+    },
+    {
+      "id": "song_20261103_064509_bd3c",
+      "title": "Sublet for the Summer",
+      "language": "English",
+      "source": "s_20261103_063735_0f96fe.m4a",
+      "bytes": 2169425,
+      "localMtime": 1793688309.1194632,
+      "file": "songs/eb431f0240995ce16db3634cd3ce8cd4d8b7697df4244a1226f23630a98a7c43.m4a",
+      "sha256": "eb431f0240995ce16db3634cd3ce8cd4d8b7697df4244a1226f23630a98a7c43"
+    },
+    {
+      "id": "song_20261103_070208_3c93",
+      "title": "Not Your Miracle",
+      "language": "English",
+      "source": "s_20261103_065726_c7a1fd.m4a",
+      "bytes": 2002274,
+      "localMtime": 1793689328.0006208,
+      "file": "songs/b99dc678078ca589619c12061c837d503383a03fb667aacb6ae24e369941de92.m4a",
+      "sha256": "b99dc678078ca589619c12061c837d503383a03fb667aacb6ae24e369941de92"
+    },
+    {
+      "id": "song_20261103_074010_2d4e",
+      "title": "Habit You Can't Kick",
+      "language": "English",
+      "source": "s_20261103_073731_752bf8.m4a",
+      "bytes": 2179354,
+      "localMtime": 1793691609.9452872,
+      "file": "songs/1f112c31a6def62d33cad986f86e57b9ae50dd896399d0545ea4198bc062022c.m4a",
+      "sha256": "1f112c31a6def62d33cad986f86e57b9ae50dd896399d0545ea4198bc062022c"
+    },
+    {
+      "id": "song_20261103_075008_9aa6",
+      "title": "Keys in My Own Pocket",
+      "language": "English",
+      "source": "s_20261103_074728_189b47.m4a",
+      "bytes": 1896795,
+      "localMtime": 1793692208.449015,
+      "file": "songs/da53d192f491f9703b5ff18aa6440f6751927d357cc5aa2751e17f34033ddc5a.m4a",
+      "sha256": "da53d192f491f9703b5ff18aa6440f6751927d357cc5aa2751e17f34033ddc5a"
+    },
+    {
+      "id": "song_20261103_080022_9659",
+      "title": "Main Course",
+      "language": "English",
+      "source": "s_20261103_075730_dd6ac1.m4a",
+      "bytes": 2275716,
+      "localMtime": 1793692822.1398454,
+      "file": "songs/c4256ebc665a235ca0335f8c6913f4fdb36fad0dad37fff8a8c58e7c213fbd9b.m4a",
+      "sha256": "c4256ebc665a235ca0335f8c6913f4fdb36fad0dad37fff8a8c58e7c213fbd9b"
+    },
+    {
+      "id": "song_20261103_081007_e56a",
+      "title": "Museum Glass",
+      "language": "English",
+      "source": "s_20261103_080731_3505dd.m4a",
+      "bytes": 1997079,
+      "localMtime": 1793693407.1611464,
+      "file": "songs/232da3094ef61d316c30d717000aba6131c7d8dcbef547cb1efde02fa8521ad1.m4a",
+      "sha256": "232da3094ef61d316c30d717000aba6131c7d8dcbef547cb1efde02fa8521ad1"
+    },
+    {
+      "id": "song_20261103_082007_47ef",
+      "title": "Fatal Voltage",
+      "language": "English",
+      "source": "s_20261103_081729_9ed043.m4a",
+      "bytes": 2048147,
+      "localMtime": 1793694007.4600925,
+      "file": "songs/6901f1d56f2b61cb1a6f80fdb6e75557f9776a4304df85531d3ceeb79074837d.m4a",
+      "sha256": "6901f1d56f2b61cb1a6f80fdb6e75557f9776a4304df85531d3ceeb79074837d"
+    },
+    {
+      "id": "song_20261103_084510_79bc",
+      "title": "Static Under the Sweater",
+      "language": "English",
+      "source": "s_20261103_083730_5d147e.m4a",
+      "bytes": 2092557,
+      "localMtime": 1793695510.453228,
+      "file": "songs/72d00c56844ba805b37bdcc517e34a197c9c9088d64883de24ac1c71afee6ea7.m4a",
+      "sha256": "72d00c56844ba805b37bdcc517e34a197c9c9088d64883de24ac1c71afee6ea7"
+    },
+    {
+      "id": "song_20261103_090107_067e",
+      "title": "Glass Pedestal",
+      "language": "English",
+      "source": "s_20261103_084727_7ec536.m4a",
+      "bytes": 2166634,
+      "localMtime": 1793696467.4959671,
+      "file": "songs/02a817e29e55f80e297a770a1109fa58132e4a077bc0c12d8af313fac5adafe7.m4a",
+      "sha256": "02a817e29e55f80e297a770a1109fa58132e4a077bc0c12d8af313fac5adafe7"
+    },
+    {
+      "id": "song_20261103_091007_2f21",
+      "title": "Golden Coastline",
+      "language": "English",
+      "source": "s_20261103_090729_4baf05.m4a",
+      "bytes": 2193137,
+      "localMtime": 1793697007.658011,
+      "file": "songs/e242a61a3636ae5f35d3b4afeeb80eafb2bf2d15d493b50cfda4d3631e7534cc.m4a",
+      "sha256": "e242a61a3636ae5f35d3b4afeeb80eafb2bf2d15d493b50cfda4d3631e7534cc"
+    },
+    {
+      "id": "song_20261103_092015_74e7",
+      "title": "Leave the Porch Light Burning",
+      "language": "English",
+      "source": "s_20261103_091730_325426.m4a",
+      "bytes": 1932394,
+      "localMtime": 1793697615.2879236,
+      "file": "songs/b6d200f485b3b9a887d453d221887c29eb178a3f51a4238e07b23dd1e166af94.m4a",
+      "sha256": "b6d200f485b3b9a887d453d221887c29eb178a3f51a4238e07b23dd1e166af94"
+    },
+    {
+      "id": "song_20261103_093014_7994",
+      "title": "Kitchen Floor Grooves",
+      "language": "English",
+      "source": "s_20261103_092728_78d67b.m4a",
+      "bytes": 2033953,
+      "localMtime": 1793698214.6550474,
+      "file": "songs/825244e508542774c45608b013284883398ec96b6fc51140c257cb19bc6d48e5.m4a",
+      "sha256": "825244e508542774c45608b013284883398ec96b6fc51140c257cb19bc6d48e5"
+    },
+    {
+      "id": "song_20261103_094008_e472",
+      "title": "Rust On The Lunchbox",
+      "language": "English",
+      "source": "s_20261103_093728_a8c7ce.m4a",
+      "bytes": 1985063,
+      "localMtime": 1793698808.811418,
+      "file": "songs/6ca9d4672de32fd41725dc8b03dac7cd53b84539b217f5a4f6df5f5b39f3610e.m4a",
+      "sha256": "6ca9d4672de32fd41725dc8b03dac7cd53b84539b217f5a4f6df5f5b39f3610e"
+    },
+    {
+      "id": "song_20261103_100023_94bb",
+      "title": "Front Page Syndrome",
+      "language": "English",
+      "source": "s_20261103_095729_d9a021.m4a",
+      "bytes": 2053868,
+      "localMtime": 1793700023.759162,
+      "file": "songs/c8bfd9f7179dba2687f5a47d054b85a556eba068edebd55098b291a15a257c2b.m4a",
+      "sha256": "c8bfd9f7179dba2687f5a47d054b85a556eba068edebd55098b291a15a257c2b"
+    },
+    {
+      "id": "song_20261103_101609_2956",
+      "title": "Quiet on the Countertop",
+      "language": "English",
+      "source": "s_20261103_094732_07e537.m4a",
+      "bytes": 2032344,
+      "localMtime": 1793700969.6371322,
+      "file": "songs/9c22b86d963a7df7dbb68c6aaf3b9b5b055160243117e726ef1cc63a3f363b28.m4a",
+      "sha256": "9c22b86d963a7df7dbb68c6aaf3b9b5b055160243117e726ef1cc63a3f363b28"
+    },
+    {
+      "id": "song_20261103_102009_7041",
+      "title": "Velvet Alchemy",
+      "language": "English",
+      "source": "s_20261103_101733_9388ce.m4a",
+      "bytes": 2170563,
+      "localMtime": 1793701209.1519783,
+      "file": "songs/5c3bb291ebeaf85e2b02fb0894c7eb15dc1fb0dcd50c61fe3323845dcf8edb5c.m4a",
+      "sha256": "5c3bb291ebeaf85e2b02fb0894c7eb15dc1fb0dcd50c61fe3323845dcf8edb5c"
+    },
+    {
+      "id": "song_20261103_103010_cfeb",
+      "title": "Silver Screen Fever",
+      "language": "English",
+      "source": "s_20261103_102739_cf12e2.m4a",
+      "bytes": 1991613,
+      "localMtime": 1793701810.476443,
+      "file": "songs/d6090bfc6e1347fa7dd841f14ece45e49fbf57fbf889971249d9abb7fc44e194.m4a",
+      "sha256": "d6090bfc6e1347fa7dd841f14ece45e49fbf57fbf889971249d9abb7fc44e194"
+    },
+    {
+      "id": "song_20261103_105010_532e",
+      "title": "Silk in the Wreckage",
+      "language": "English",
+      "source": "s_20261103_104728_8249b5.m4a",
+      "bytes": 2074632,
+      "localMtime": 1793703009.9497697,
+      "file": "songs/ce6c540eddc3dd3154295f4531348dc7bdaa21e084f49ec5804a4df09d38da0b.m4a",
+      "sha256": "ce6c540eddc3dd3154295f4531348dc7bdaa21e084f49ec5804a4df09d38da0b"
+    },
+    {
+      "id": "song_20261103_105906_de7d",
+      "title": "Velvet Appetite",
+      "language": "English",
+      "source": "s_20261103_105724_4359cc.m4a",
+      "bytes": 2373907,
+      "localMtime": 1793703546.2803245,
+      "file": "songs/80f1c212b09106d736a82f3fa6e80aa89d1f4970990e42549631696be0fd9eee.m4a",
+      "sha256": "80f1c212b09106d736a82f3fa6e80aa89d1f4970990e42549631696be0fd9eee"
+    },
+    {
+      "id": "song_20261103_111007_470b",
+      "title": "Borrowed Crown",
+      "language": "English",
+      "source": "s_20261103_110734_568be3.m4a",
+      "bytes": 2342770,
+      "localMtime": 1793704207.214054,
+      "file": "songs/d3852f28fb595966078c3690bcce73559875016b0efb0d3e2392b17c40760287.m4a",
+      "sha256": "d3852f28fb595966078c3690bcce73559875016b0efb0d3e2392b17c40760287"
+    },
+    {
+      "id": "song_20261103_113407_b717",
+      "title": "Yellow Kitchen Light",
+      "language": "English",
+      "source": "s_20261103_112723_6d8212.m4a",
+      "bytes": 2219924,
+      "localMtime": 1793705647.6447148,
+      "file": "songs/32c52d2c990dde20bd7a6ae73363b455bdce661321e35f7b81c576e938b40db1.m4a",
+      "sha256": "32c52d2c990dde20bd7a6ae73363b455bdce661321e35f7b81c576e938b40db1"
+    },
+    {
+      "id": "song_20261103_114008_78c7",
+      "title": "Southern Heat",
+      "language": "English",
+      "source": "s_20261103_113725_9bf82d.m4a",
+      "bytes": 2231180,
+      "localMtime": 1793706008.0811744,
+      "file": "songs/e5c422a8d2015dddeae52b30365a95cefd0aa19d96e4a2696e4330dac33e7c03.m4a",
+      "sha256": "e5c422a8d2015dddeae52b30365a95cefd0aa19d96e4a2696e4330dac33e7c03"
+    },
+    {
+      "id": "song_20261103_115006_4fe0",
+      "title": "YouWorkedOvertime",
+      "language": "English",
+      "source": "s_20261103_114728_9226a4.m4a",
+      "bytes": 2217303,
+      "localMtime": 1793706606.249979,
+      "file": "songs/1d3bdcd416156a728c856b00aa73b38e8b786899df0392227efa22bebca1fac8.m4a",
+      "sha256": "1d3bdcd416156a728c856b00aa73b38e8b786899df0392227efa22bebca1fac8"
+    },
+    {
+      "id": "song_20261103_122011_e33b",
+      "title": "Read the Last Page",
+      "language": "English",
+      "source": "s_20261103_121734_92ab9c.m4a",
+      "bytes": 2007529,
+      "localMtime": 1793708411.260236,
+      "file": "songs/de1daa7ca60e87379aa3ed692ce62016bb063705530701bad4242e77150316cf.m4a",
+      "sha256": "de1daa7ca60e87379aa3ed692ce62016bb063705530701bad4242e77150316cf"
+    },
+    {
+      "id": "song_20261103_125007_6403",
+      "title": "Another Man's Crime",
+      "language": "English",
+      "source": "s_20261103_124724_78d59a.m4a",
+      "bytes": 1722522,
+      "localMtime": 1793710207.9004083,
+      "file": "songs/100e404f9091a3d8746e975dadb32678627a6823f221dc5ab35dac302b02eb45.m4a",
+      "sha256": "100e404f9091a3d8746e975dadb32678627a6823f221dc5ab35dac302b02eb45"
+    },
+    {
+      "id": "song_20261103_133009_fc72",
+      "title": "Canary in the Coal Mine",
+      "language": "English",
+      "source": "s_20261103_132736_a66ff1.m4a",
+      "bytes": 2145164,
+      "localMtime": 1793712609.6964974,
+      "file": "songs/e9ea4db643eaa44988cdd6726b429505cc9936c990a1b0ca0bbb2bf9e8a58b20.m4a",
+      "sha256": "e9ea4db643eaa44988cdd6726b429505cc9936c990a1b0ca0bbb2bf9e8a58b20"
+    },
+    {
+      "id": "song_20261103_133306_3ccd",
+      "title": "Pack Up Before the Sun",
+      "language": "English",
+      "source": "s_20261103_131728_c8674a.m4a",
+      "bytes": 2068844,
+      "localMtime": 1793712786.8951552,
+      "file": "songs/1c088a674531bfa83cb3da128088d7663870e0ac57723383e5f441e8fa70da05.m4a",
+      "sha256": "1c088a674531bfa83cb3da128088d7663870e0ac57723383e5f441e8fa70da05"
+    },
+    {
+      "id": "song_20261103_134111_0c33",
+      "title": "Put the Guitar Down",
+      "language": "English",
+      "source": "s_20261103_133729_434bf2.m4a",
+      "bytes": 1988694,
+      "localMtime": 1793713271.6236105,
+      "file": "songs/04b07a8810010c759ef93016524df3e72e6bba30439b99aa4148452e393d1634.m4a",
+      "sha256": "04b07a8810010c759ef93016524df3e72e6bba30439b99aa4148452e393d1634"
+    },
+    {
+      "id": "song_20261103_140206_e1ec",
+      "title": "Cold Coffee on the Counter",
+      "language": "English",
+      "source": "s_20261103_135726_a4f3c4.m4a",
+      "bytes": 1877723,
+      "localMtime": 1793714526.1546438,
+      "file": "songs/baa67346140cc7c11e574fa40a0b26f186512acc51b2ff1ad9ab943d6e97254a.m4a",
+      "sha256": "baa67346140cc7c11e574fa40a0b26f186512acc51b2ff1ad9ab943d6e97254a"
+    },
+    {
+      "id": "song_20261103_140607_8015",
+      "title": "Penthouse Quiet",
+      "language": "English",
+      "source": "s_20261103_134728_3eebec.m4a",
+      "bytes": 2050335,
+      "localMtime": 1793714767.5002925,
+      "file": "songs/5f1c1aaf2fe22dd7f42e3ddc45c2cf605ddd11305c917ed2e20be0aed7e11d99.m4a",
+      "sha256": "5f1c1aaf2fe22dd7f42e3ddc45c2cf605ddd11305c917ed2e20be0aed7e11d99"
+    },
+    {
+      "id": "song_20261103_143009_0bef",
+      "title": "Stand Still With Me",
+      "language": "English",
+      "source": "s_20261103_142730_ac8bfe.m4a",
+      "bytes": 1732854,
+      "localMtime": 1793716209.0128691,
+      "file": "songs/97d0d00429277b93eb7d1736a8f95a2991dfa8720f60880d6f779bfa71499985.m4a",
+      "sha256": "97d0d00429277b93eb7d1736a8f95a2991dfa8720f60880d6f779bfa71499985"
+    },
+    {
+      "id": "song_20261103_144010_1330",
+      "title": "Leave the Porch Light On",
+      "language": "English",
+      "source": "s_20261103_143732_521a38.m4a",
+      "bytes": 1790025,
+      "localMtime": 1793716810.2426825,
+      "file": "songs/cd75bbb80e81e4ae71cf6d5f68b59ea351f393eebc3a08704676cec67158ed04.m4a",
+      "sha256": "cd75bbb80e81e4ae71cf6d5f68b59ea351f393eebc3a08704676cec67158ed04"
+    },
+    {
+      "id": "song_20261103_151009_f57f",
+      "title": "Amber Horizon",
+      "language": "English",
+      "source": "s_20261103_150722_4204d5.m4a",
+      "bytes": 2061280,
+      "localMtime": 1793718609.110305,
+      "file": "songs/16820e51cec453e8852cee41f52616316fc18ecd80d6be3a0a833980095eeb86.m4a",
+      "sha256": "16820e51cec453e8852cee41f52616316fc18ecd80d6be3a0a833980095eeb86"
+    },
+    {
+      "id": "song_20261103_152012_1b94",
+      "title": "Neon On The Water Tower",
+      "language": "English",
+      "source": "s_20261103_151736_f43ae0.m4a",
+      "bytes": 1995327,
+      "localMtime": 1793719212.6517665,
+      "file": "songs/d6a0b47c41125b3e8947399f5b8582943557352308f34e6ad422ac2c0587cb24.m4a",
+      "sha256": "d6a0b47c41125b3e8947399f5b8582943557352308f34e6ad422ac2c0587cb24"
+    },
+    {
+      "id": "song_20261103_153011_bf25",
+      "title": "Unwritten Tonight",
+      "language": "English",
+      "source": "s_20261103_152733_c3f7db.m4a",
+      "bytes": 2115612,
+      "localMtime": 1793719811.4781816,
+      "file": "songs/aac3962853b11d11013437d530dcf0d704365b1f83fbfacb9790a65be9c35cdd.m4a",
+      "sha256": "aac3962853b11d11013437d530dcf0d704365b1f83fbfacb9790a65be9c35cdd"
+    },
+    {
+      "id": "song_20261103_154008_0be6",
+      "title": "Already Knew Your Name",
+      "language": "English",
+      "source": "s_20261103_153734_7ea406.m4a",
+      "bytes": 2127867,
+      "localMtime": 1793720408.3241081,
+      "file": "songs/176c71fc623b047e1307e57c5ed26138d419eca6895c91d65a839f16d31210fd.m4a",
+      "sha256": "176c71fc623b047e1307e57c5ed26138d419eca6895c91d65a839f16d31210fd"
+    },
+    {
+      "id": "song_20261103_155006_3e39",
+      "title": "Show You My Streets",
+      "language": "English",
+      "source": "s_20261103_154731_9ea3a6.m4a",
+      "bytes": 2134406,
+      "localMtime": 1793721006.83484,
+      "file": "songs/edce40b8ea9f272d7dbf5712c7666e2f04b09fd66cf2c04e3924b6c257e8eeaf.m4a",
+      "sha256": "edce40b8ea9f272d7dbf5712c7666e2f04b09fd66cf2c04e3924b6c257e8eeaf"
+    }
+  ]
+}
